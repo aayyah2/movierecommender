@@ -1,2 +1,3 @@
 Add Your Name, Year, and Major Here:
 - Aparna Ayyah, Sophomore in CS + Statistics
+- Eric Chen, Freshman in CS + Statistics
