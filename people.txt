@@ -2,3 +2,5 @@ Add Your Name, Year, and Major Here:
 - Aparna Ayyah, Sophomore in CS + Statistics
 - Eric Chen, Freshman in CS + Statistics
 - Aassik Pazhani, Sophomore in CS + Astronomy
+- Mahi Kolla, Freshman in CS
+- Maisy Song, Sophomore in Math 
